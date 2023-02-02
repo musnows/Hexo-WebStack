@@ -31,11 +31,11 @@ menu:
   - name: 常用网站
     icon: far fa-star
     config: mainPage
-  - name: 常用工具
-    icon: far fa-star
-    config: hotTools
-  - name: 图床工具
+  - name: 好用工具
     icon: fas fa-tools
+    config: hotTools
+  - name: 图床汇总
+    icon: fas fa-file-image
     config: imgTools
 
 mainPage:
@@ -48,11 +48,18 @@ mainPage:
     img: /images/logos/gitee.ico
     description: 面向开源及私有软件项目的托管平台
 imgTools:
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-
+  - name: 路过图床
+    url: https://imgse.com/
+    img: https://imgse.com/content/images/system/favicon_1587118523486_91617a.png
+    description: 免费公共图床 (无需登录 | 较稳定)
+  - name: imgtp
+    url: https://www.imgtp.com/
+    img: https://www.imgtp.com/favicon.ico
+    description: 免费公共图床 (无需登录 | 不稳定)
+  - name: 薄荷图床
+    url: https://riyugo.com/
+    img: https://riyugo.com/favicon.ico
+    description: 会员公共图床 (免费版只有三天有效期)
 
 
 about:
