@@ -6,11 +6,14 @@ logo:
   collapsed: /images/myfavicon2x.png
   dark: /images/gudie_dark.png
 
+# 修改了index.ejs，添加了if判断，取消了flag的显示
 flag:
-  - name: Chinese
-    default: true
-    icon: flag-cn
-    index: /index.html
+  enable: false
+  data:
+    - name: 简体中文
+      default: true
+      icon: flag-cn
+      index: /index.html
 
 search: true
 
@@ -78,6 +81,11 @@ hotTools:
     url: https://www.natfrp.com/
     img: https://www.natfrp.com/favicon.ico
     description: 易用的内网穿透服务
+  - name: 51.la
+    url: https://v6.51.la/
+    img: /images/logos/51la.png
+    description: 免费的站点监测
+    
 
 imgTools:
   - name: 图床导航
@@ -90,7 +98,7 @@ imgTools:
     description: 免费图床 (无需登录 | 稳定)
   - name: imgtp
     url: https://www.imgtp.com/
-    img: https://www.imgtp.com/favicon.ico
+    img: /images/logos/imgtp.ico
     description: 免费图床 (无需登录)
   - name: postimages
     url: https://postimages.org/
@@ -124,7 +132,7 @@ aboutPage:
     head: 关于站长
     name: 慕雪
     url: https://outpost54.top/
-    img: /images/logos/myPNG-r.png
+    img: /images/myfavicon2x.png
     description: 爱折腾的代码初学者
     html: ''
 
