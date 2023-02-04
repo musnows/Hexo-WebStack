@@ -88,6 +88,10 @@ hotTools:
     
 
 imgTools:
+  - name: 慕雪的图床
+    url: https://img.musnow.top/
+    img: /images/myfavicon.png
+    description: 自建图床（无需登录）
   - name: 图床导航
     url: http://imgdh.com/#
     img: /images/logos/imgguide.png
