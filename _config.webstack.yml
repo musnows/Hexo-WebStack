@@ -85,6 +85,14 @@ hotTools:
     url: https://v6.51.la/
     img: /images/logos/51la.png
     description: 免费的站点监测
+  - name: itdog
+    url: https://www.itdog.cn/http/
+    img: https://img.musnow.top/i/23/02/63de41e1a4dae.png
+    description: 网站速度诊断
+  - name: myssl
+    url: https://myssl.com/
+    img: https://img.musnow.top/i/23/02/63de41cf0f0ed.png
+    description: 网站ssl证书测试
     
 
 imgTools:
