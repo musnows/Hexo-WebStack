@@ -52,12 +52,20 @@ mainPage:
     description: 面向开源及私有软件项目的托管平台
   - name: Netlify
     url: https://www.netlify.com/
-    img: https://www.netlify.com/v3/static/favicon/favicon-32x32.png
+    img: https://img.musnow.top/i/23/02/63df6ab81e69f.png
     description: 访问超快的免费的部署平台
   - name: Vercel
     url: https://vercel.com/
     img: https://assets.vercel.com/image/upload/front/favicon/vercel/57x57.png
     description: 免费好用的部署平台
+  - name: travellings
+    url: https://www.travellings.cn/
+    img: https://www.travellings.cn/assets/travelling-dark.png
+    description: 开往 · 友链接力！
+  - name: 十年之约
+    url: https://www.foreverblog.cn/
+    img: https://www.foreverblog.cn/favicon.ico
+    description: 一个人的寂寞，一群人的狂欢。
 
 
 hotTools:
