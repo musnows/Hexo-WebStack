@@ -38,4 +38,6 @@
   <% if (setting.custom && setting.custom.head) { %>
   <%- setting.custom.head %>
   <% } %>
+  <!-- referrer 设置为空 避免logo访问被防盗链禁止 -->
+  <meta name="referrer" content="no-referrer">
 </head>

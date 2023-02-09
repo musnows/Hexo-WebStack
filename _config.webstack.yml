@@ -101,7 +101,30 @@ hotTools:
     url: https://myssl.com/
     img: https://img.musnow.top/i/23/02/63de41cf0f0ed.png
     description: 网站ssl证书测试
-    
+  - name: cpolar
+    url: https://www.cpolar.com/
+    img: https://www.cpolar.com/wp-content/uploads/2016/10/cropped-site-icon-1-1-32x32.png
+    description: 快速将服务公开，但带宽和收费感人，不如楼上
+  - name: joyssl
+    url: https://www.joyssl.com/
+    img: https://www.joyssl.com/images/favicon.ico
+    description: 白嫖域名ssl证书
+  - name: apifox
+    url: https://www.apifox.cn/
+    img: https://cdn.apifox.cn/logo/apifox-logo-256.png
+    description: postman，懂？
+  - name: itool
+    url: https://itool.co/timestamp
+    img: https://itool.co/static/icons/apple-icon-57x57.png
+    description: 各类在线工具
+  - name: 彩云
+    url: https://docs.caiyunapp.com/blog
+    img: https://docs.caiyunapp.com/img/favicon.ico
+    description: 免费的天气、翻译api
+  - name: shields.io
+    url: https://shields.io/
+    img: https://img1.musnow.top/i/23/02/63e4b49d38888.png
+    description: diy一个badge
 
 imgTools:
   - name: 慕雪的图床
