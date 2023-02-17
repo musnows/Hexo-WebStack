@@ -40,6 +40,9 @@ menu:
   - name: 图床汇总
     icon: fas fa-file-image
     config: imgTools
+  - name: 博客聚合
+    icon: fas fa-user-friends
+    config: blogPro
 
 mainPage:
   - name: Github
@@ -58,15 +61,39 @@ mainPage:
     url: https://vercel.com/
     img: https://assets.vercel.com/image/upload/front/favicon/vercel/57x57.png
     description: 免费好用的部署平台
-  - name: travellings
-    url: https://www.travellings.cn/
-    img: https://www.travellings.cn/assets/travelling-dark.png
-    description: 开往 · 友链接力！
-  - name: 十年之约
-    url: https://www.foreverblog.cn/
-    img: https://www.foreverblog.cn/favicon.ico
-    description: 一个人的寂寞，一群人的狂欢。
-
+  - name: bilibili
+    url: https://www.bilibili.com/
+    img: https://www.bilibili.com/favicon.ico?v=1
+    description: 鼠鼠我啊...
+  - name: leetcode
+    url: https://leetcode.cn/
+    img: https://static.leetcode.cn/cn-mono-assets/production/assets/favicon-notification-96x96.3211fd5a.png
+    description: 刷题刷刷刷
+  - name: 牛客网
+    url: https://www.nowcoder.com/
+    img: https://static.nowcoder.com/images/logo_web_300.png
+    description: 刷题刷刷刷
+  - name: CSDN
+    url: https://blog.csdn.net/
+    img: https://g.csdnimg.cn/static/logo/favicon32.ico
+    description: 专业开发者社区
+  - name: 阿里云
+    url: https://www.aliyun.com/
+    img: https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico
+    description: 为了无法计算的价值
+  - name: 腾讯云
+    url: https://cloud.tencent.com/
+    img: https://cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/shareicons/cloud.png
+    description: 产业质变·云启未来
+  - name: 又拍云
+    url: https://www.upyun.com/
+    img: https://www.upyun.com/static/favicon-64x64.png
+    description: 加入联盟，白嫖CDN
+  - name: 知乎
+    url: https://www.zhihu.com/
+    img: https://static.zhihu.com/heifetz/assets/apple-touch-icon-76.7abf3393.png
+    description: 人在蒙古，刚下航母
+  
 
 hotTools:
   - name: docsmall
@@ -125,6 +152,24 @@ hotTools:
     url: https://shields.io/
     img: https://img1.musnow.top/i/23/02/63e4b49d38888.png
     description: diy一个badge
+  - name: matools
+    url: https://www.matools.com/
+    img: https://www.matools.com/img/common/favicon.png
+    description: 程序猿可用的在线工具
+  - name: font-awesome
+    url: https://wpmore.cn/resources/font-awesome/
+    img: https://wpmore.cn/favicon.ico
+    description: 字体图标对照
+  - name: 吱吱工具箱
+    url: https://www.butterpig.top/
+    img: https://s1.ax1x.com/2022/08/01/vAiw8O.png
+    description: 在线图片处理工具
+  - name: uigradients
+    url: https://uigradients.com/#Miaka
+    img: https://uigradients.com/static/images/favicon-32x32.png
+    description: 好看的渐变色
+
+
 
 imgTools:
   - name: 慕雪的图床
@@ -155,7 +200,30 @@ imgTools:
     url: https://pic.xywm.ltd/
     img: https://pic.xywm.ltd/favicon.ico
     description: 免费图床 (无需登录 | 稳定)
+  - name: imgloc
+    url: https://imgloc.com/
+    img: https://imgloc.com/content/images/system/favicon_1670917776761_0a194d.png
+    description: 免费图床 (无需登录 | 稳定)
 
+blogPro:
+  - name: travellings
+    url: https://www.travellings.cn/
+    img: https://www.travellings.cn/assets/travelling-dark.png
+    description: 开往 · 友链接力！
+  - name: 十年之约
+    url: https://www.foreverblog.cn/
+    img: https://www.foreverblog.cn/favicon.ico
+    description: 一个人的寂寞，一群人的狂欢。
+  - name: 萌国icp备案
+    url: https://icp.gov.moe/
+    img: https://icp.gov.moe/favicon.ico
+    description: 萌ICP备 纯属萌友网站联萌！
+  - name: 酷壳
+    url: https://coolshell.cn/
+    img: https://coolshell.cn/wp-content/uploads/2020/04/mini.logo_.png
+    description: 享受变成和技术带来的乐趣
+
+    
 
 
 about:
