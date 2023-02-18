@@ -218,10 +218,18 @@ blogPro:
     url: https://icp.gov.moe/
     img: https://icp.gov.moe/favicon.ico
     description: 萌ICP备 纯属萌友网站联萌！
+  - name: Valorant商店在线查询
+    url: https://val.musnow.top/
+    img: https://val.musnow.top/favicon.ico
+    description: 在线调用api，查询valorant商店
   - name: 酷壳
     url: https://coolshell.cn/
     img: https://coolshell.cn/wp-content/uploads/2020/04/mini.logo_.png
-    description: 享受变成和技术带来的乐趣
+    description: 享受编程和技术带来的乐趣
+  - name: 代码随想录
+    url: https://www.programmercarl.com/
+    img: https://img-blog.csdnimg.cn/20210614201246512.png
+    description: 学习算法不迷路
 
     
 
