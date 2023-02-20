@@ -118,7 +118,7 @@ hotTools:
     description: 易用的内网穿透服务
   - name: 51.la
     url: https://v6.51.la/
-    img: /images/logos/51la.png
+    img: /images/logos/51la.ico
     description: 免费的站点监测
   - name: itdog
     url: https://www.itdog.cn/http/
@@ -168,7 +168,10 @@ hotTools:
     url: https://uigradients.com/#Miaka
     img: https://uigradients.com/static/images/favicon-32x32.png
     description: 好看的渐变色
-
+  - name: cplusplus.com
+    url: https://legacy.cplusplus.com/
+    img: https://legacy.cplusplus.com/favicon.ico
+    description: C/C++文档
 
 
 imgTools:
