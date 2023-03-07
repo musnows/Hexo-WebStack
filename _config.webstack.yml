@@ -27,14 +27,14 @@ userDefinedSearchData:
       img: url(https://www.phind.com/images/favicon.png)
       url: https://www.phind.com/search?q=
     - name: perplexity
-      img: url(https://www.perplexity.ai//static/icons/favicon-96x96.png)
+      img: url(/images/logos/perplexity.png)
       url: https://www.perplexity.ai/?q=
     - name: 百度
       img: url(https://www.baidu.com/favicon.ico)
       url: https://www.baidu.com/s?wd=
     - name: bing
       img: url(/images/logos/bing_logo.jpg)
-      url: https://cn.bing.com/search?q
+      url: https://cn.bing.com/search?q=
     - name: github
       img: url(/images/logos/github.png)
       url: https://github.com/search?q=
