@@ -50,6 +50,9 @@ menu:
   - name: 常用网站
     icon: far fa-star
     config: mainPage
+  - name: 问答社区
+    icon: fas fa-question
+    config: qa
   - name: 好用工具
     icon: fas fa-tools
     config: hotTools
@@ -110,6 +113,19 @@ mainPage:
     img: https://static.zhihu.com/heifetz/assets/apple-touch-icon-76.7abf3393.png
     description: 人在蒙古，刚下航母
   
+qa:
+  - name: stackoverflow
+    url: https://stackoverflow.com/
+    img: https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a
+    description: 全球热门的编程学习社区
+  - name: CSDN问答
+    url: https://ask.csdn.net/
+    img: https://g.csdnimg.cn/static/logo/favicon32.ico
+    description: CSDN开发者互助问答
+  - name: 思否
+    url: https://segmentfault.com/questions
+    img: https://static.segmentfault.com/main_site_next/fab8c45a/touch-icon.png
+    description: 以开放、对等、共享的理念，凝聚开发者智慧，共同推动技术进步
 
 hotTools:
   - name: docsmall
@@ -192,6 +208,10 @@ hotTools:
     url: https://www.phind.com/
     img: https://www.phind.com/images/favicon.png
     description: 体验AI搜索引擎
+  - name: DoGet
+    url: https://doget.nocsdn.com/#/
+    img: https://doget.nocsdn.com/icons/favicon-32x32.png
+    description: Github下载加速
 
 
 imgTools:
