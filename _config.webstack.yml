@@ -74,7 +74,7 @@ mainPage:
     description: 面向开源及私有软件项目的托管平台
   - name: Netlify
     url: https://www.netlify.com/
-    img: https://img.musnow.top/i/23/02/63df6ab81e69f.png
+    img: https://img.musnow.top/i/2023/02/63df6ab81e69f.png
     description: 访问超快的免费的部署平台
   - name: Vercel
     url: https://vercel.com/
@@ -154,11 +154,11 @@ hotTools:
     description: 免费的站点监测
   - name: itdog
     url: https://www.itdog.cn/http/
-    img: https://img.musnow.top/i/23/02/63de41e1a4dae.png
+    img: https://img.musnow.top/i/2023/02/63de41e1a4dae.png
     description: 网站速度诊断
   - name: myssl
     url: https://myssl.com/
-    img: https://img.musnow.top/i/23/02/63de41cf0f0ed.png
+    img: https://img.musnow.top/i/2023/02/63de41cf0f0ed.png
     description: 网站ssl证书测试
   - name: cpolar
     url: https://www.cpolar.com/
@@ -182,7 +182,7 @@ hotTools:
     description: 免费的天气、翻译api
   - name: shields.io
     url: https://shields.io/
-    img: https://img1.musnow.top/i/23/02/63e4b49d38888.png
+    img: https://img1.musnow.top/i/2023/02/63e4b49d38888.png
     description: diy一个badge
   - name: matools
     url: https://www.matools.com/
@@ -212,6 +212,10 @@ hotTools:
     url: https://doget.nocsdn.com/#/
     img: https://doget.nocsdn.com/icons/favicon-32x32.png
     description: Github下载加速
+  - name: word2md
+    url: https://word2md.com/
+    img: https://img1.musnow.top/i/2023/03/6416affb642cb.png
+    description: word文档转换为markdown
 
 
 imgTools:
