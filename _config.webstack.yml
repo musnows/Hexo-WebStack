@@ -267,7 +267,7 @@ blogPro:
     description: 萌ICP备 纯属萌友网站联萌！
   - name: Valorant商店在线查询
     url: https://val.musnow.top/
-    img: https://val.musnow.top/source/images/favicon.ico
+    img: https://img.musnow.top/i/23/02/63e1f966cc776.ico
     description: 在线调用api，查询valorant商店
   - name: 酷壳
     url: https://coolshell.cn/
@@ -281,7 +281,10 @@ blogPro:
     url: https://www.ghxi.com/
     img: https://www.ghxi.com/favicon.ico
     description: 互联网的净土
-    
+  - name: khl.py文档
+    url: https://khl-py.eu.org/
+    img: https://khl-py.eu.org/favicon.ico
+    description: KOOK平台khl.py-SDK文档
 
 
 about:
