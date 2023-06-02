@@ -219,8 +219,8 @@ hotTools:
 
 
 imgTools:
-  - name: 慕雪的图床
-    url: https://img.musnow.top/
+  - name: 慕雪的图床 (已下线)
+    url: /
     img: /images/myfavicon.png
     description: 自建图床（无需登录）
   - name: 图床导航
