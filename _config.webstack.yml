@@ -207,7 +207,7 @@ hotTools:
   - name: phind
     url: https://www.phind.com/
     img: https://www.phind.com/images/favicon.png
-    description: 体验AI搜索引擎
+    description: 体验AI搜索引擎 | 停止国内服务
   - name: DoGet
     url: https://doget.nocsdn.com/#/
     img: https://doget.nocsdn.com/icons/favicon-32x32.png
@@ -267,7 +267,7 @@ blogPro:
     description: 萌ICP备 纯属萌友网站联萌！
   - name: Valorant商店在线查询
     url: https://val.musnow.top/
-    img: https://img.musnow.top/i/23/02/63e1f966cc776.ico
+    img: https://img.musnow.top/i/2023/02/63e1f966cc776.ico
     description: 在线调用api，查询valorant商店
   - name: 酷壳
     url: https://coolshell.cn/
