@@ -166,10 +166,10 @@ hotTools:
     url: https://www.natfrp.com/
     img: https://www.natfrp.com/favicon.ico
     description: 易用的内网穿透服务
-  - name: 51.la
-    url: https://v6.51.la/
-    img: /images/logos/51la.ico
-    description: 免费的站点监测
+  # - name: 51.la
+  #   url: https://v6.51.la/
+  #   img: /images/logos/51la.ico
+  #   description: 免费的站点监测
   - name: itdog
     url: https://www.itdog.cn/http/
     img: /images/logos/63de41e1a4dae.png
